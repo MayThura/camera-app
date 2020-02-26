@@ -1,2 +1,2 @@
-# cameraApp
-Making camera application in android
+# Camera App
+This is creating a camera app in android with opencv library.
